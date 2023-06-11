@@ -1,7 +1,7 @@
-### Hello there 👋
+<h1 align="center"> Hello there 👋</h1>
 
 
-<h1>My name is John Tran, I am a Software Developer/ Engineer. I am currently residing in Sunnyvale, California, but I am originally from Honolulu, HI.</h1>
+<p align="center">My name is John Tran, I am a Software Developer/ Engineer. I am currently residing in Sunnyvale, California, but I am originally from Honolulu, HI.</p>
 <!--
 **DatGuy8/DatGuy8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

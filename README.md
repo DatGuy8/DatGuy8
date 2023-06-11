@@ -1,6 +1,7 @@
 <h1 align="center"> Hello there 👋</h1>
-
-
+<p align="center">
+<img src="https://github.com/DatGuy8/DatGuy8/blob/main/images/corgiTyping.gif" height="200px" align="center">
+</p>
 <p align="center">My name is John Tran, I am a Software Developer/ Engineer. I am currently residing in Sunnyvale, California, but I am originally from Honolulu, HI.</p>
 <!--
 **DatGuy8/DatGuy8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

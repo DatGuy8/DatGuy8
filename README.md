@@ -3,7 +3,7 @@
 <img src="https://github.com/DatGuy8/DatGuy8/blob/main/images/corgiTyping.gif" height="200px" align="center">
 </p>
 <p>
-I'm John Tran, a Software Developer/Engineer with a passion for learning and creating new things. Originally from Hawaii, I am now currently in the sunny city of Sunnyvale, California :sunny:, persuing my love for coding.
+I'm John Tran, a Software Developer/Engineer with a passion for learning and creating new things. Originally from Hawaii, I am now currently in the sunny city of Sunnyvale, California :sunny:, pursuing my love for coding.
 
 Feel free to explore my repositories and discover the exciting projects I've worked on. If you have any questions or just want to connect, please don't hesitate to reach out.
 </p>

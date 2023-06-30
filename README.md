@@ -35,6 +35,11 @@ Feel free to explore my repositories and discover the exciting projects I've wor
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 </div>
 
+
+<p>Languages: Python, Java, JavaScript(ES6, Node.js), TypeScript, HTML5, CSS, SQL</p> 
+ <p>Frameworks/Libraries: Flask, Jinja2, Spring Boot, React, Express, Bootstrap, Material-UI, Redux</p>
+  <p>Databases: MySQL, MongoDB, Mongoose</p>
+  
 ---
 ###
 

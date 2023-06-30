@@ -35,7 +35,8 @@ Feel free to explore my repositories and discover the exciting projects I've wor
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 </div>
 
-
+---
+###
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DatGuy8&langs_count=8)
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DatGuy8)](https://github.com/DatGuy8/github-readme-stats)

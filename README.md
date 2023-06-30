@@ -10,7 +10,7 @@ Feel free to explore my repositories and discover the exciting projects I've wor
 
 - 🔭 I’m currently working on ... <a href="https://github.com/DatGuy8/whatsGood-final">What's Good</a>
 - 🌱 I’m currently learning ... <a href="https://www.thymeleaf.org/">Thymeleaf</a>
-- 📫 How to reach me: ... Reach me at namesjohntran@gmail.com
+- 📫 How to reach me: ... namesjohntran@gmail.com
 
 ---
 

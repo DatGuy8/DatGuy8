@@ -8,6 +8,10 @@ I'm John Tran, a Software Developer/Engineer with a passion for learning and cre
 Feel free to explore my repositories and discover the exciting projects I've worked on. If you have any questions or just want to connect, please don't hesitate to reach out.
 </p>
 
+- 🔭 I’m currently working on ... <a href="https://github.com/DatGuy8/whatsGood-final">What's Good</a>
+- 🌱 I’m currently learning ... <a href="https://www.thymeleaf.org/">Thymeleaf</a>
+- 📫 How to reach me: ... Reach me at namesjohntran@gmail.com
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -31,14 +35,6 @@ Feel free to explore my repositories and discover the exciting projects I've wor
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 </div>
 
-<p>Languages: Python, Java, JavaScript(ES6, Node.js), TypeScript, HTML5, CSS, SQL</p> 
- <p>Frameworks/Libraries: Flask, Jinja2, Spring Boot, React, Express, Bootstrap, Material-UI, Redux</p>
-  <p>Databases: MySQL, MongoDB, Mongoose</p>
-  <p>Tools: AJAX, Spring Tool Suite, REST API, JSON, PostMan, Socket.io, MySQL Workbench</p>
-
-- 🔭 I’m currently working on ... <a href="https://github.com/DatGuy8/whatsGood-final">What's Good</a>
-- 🌱 I’m currently learning ... <a href="https://www.thymeleaf.org/">Thymeleaf</a>
-- 📫 How to reach me: ... Reach me at namesjohntran@gmail.com
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DatGuy8&langs_count=8)

@@ -8,7 +8,7 @@ I'm John Tran, a Software Developer/Engineer with a passion for learning and cre
 Feel free to explore my repositories and discover the exciting projects I've worked on. If you have any questions or just want to connect, please don't hesitate to reach out.
 </p>
 
-- 🔭 I’m currently working on ... <a href="https://github.com/DatGuy8/whatsGood-final">What's Good</a>
+- 🔭 I’m currently working on ... Pop Up Music News (Python/Flask App)
 - 🌱 I’m currently learning ... <a href="https://www.thymeleaf.org/">Thymeleaf</a>
 - 📫 How to reach me: ... namesjohntran@gmail.com
 

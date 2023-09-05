@@ -9,7 +9,7 @@ Feel free to explore my repositories and discover the exciting projects I've wor
 </p>
 
 - 🔭 I’m currently working on ... <a href="https://github.com/DatGuy8/PopUpNews">Pop Up News</a>
-- 🌱 I’m currently learning ... <a href="[https://www.thymeleaf.org/](https://www.djangoproject.com/)">Django</a>
+- 🌱 I’m currently learning ... <a href="https://www.djangoproject.com/">Django</a>
 - 📫 How to reach me: ... namesjohntran@gmail.com
 
 ---
